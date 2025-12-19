@@ -1,3 +1,9 @@
+# Student Learning Intelligence Tool
+
+> **Quick Start:** To run this tool immediately, open your terminal and type:
+> `python main.py --input data/student_data.csv`
+
+
 # Student Learning Intelligence Tool (CLI)
 
 This is a command-line tool I built to analyze student performance data. It uses machine learning (Random Forest) to predict which students are at risk of not completing the course and identifies which chapters are the most difficult.
