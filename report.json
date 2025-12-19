@@ -1,0 +1,17 @@
+{
+    "summary": {
+        "total_students_analyzed": 10,
+        "at_risk_count": 5
+    },
+    "risk_list": [
+        2,
+        4,
+        6,
+        8,
+        10
+    ],
+    "chapter_insights": {
+        "1": 13.16,
+        "2": 12.5
+    }
+}
